@@ -15,7 +15,7 @@ meta:
     email: ci@starkandwayne.com
 
   bosh-lite:
-    target:   10.4.2.137:25555
+    target:   10.4.2.137
     username: ((thunder-dome.username))
     password: ((thunder-dome.password))
     cacert:   ((thunder-dome.ca-certificate))
